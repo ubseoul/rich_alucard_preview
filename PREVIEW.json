@@ -1,0 +1,26 @@
+{
+  "preview": true,
+  "namespace": "ra_preview::",
+  "build": {
+    "schemaVersion": 1,
+    "releaseId": "ra-05a0ff0a1360-20261011153546",
+    "commit": "05a0ff0a1360533745b853aa9ce591de69247d44",
+    "shortCommit": "05a0ff0a1360",
+    "builtAt": "2026-10-11T15:35:46.246Z",
+    "assetVersion": "ra-05a0ff0a1360-20261011153546"
+  },
+  "shimSha256": "65cc546111515e51016cf22d876b6cc0d4460c4a5323239a6a623bce9a56615e",
+  "pages": [
+    "assets/f01/play/index.html",
+    "assets/f01/showdown-sandbox.html",
+    "assets/f07/play/index.html",
+    "assets/sealed/f07-play/index.html",
+    "assets/sealed/play/detroit.html",
+    "assets/sealed/play/index.html",
+    "index.html",
+    "js/frag/F06/review.html",
+    "minigame-lab.html",
+    "party-dev.html",
+    "rave-review.html"
+  ]
+}
